@@ -1,0 +1,6 @@
+{
+  "name": "NattonFlow HR",
+  "description": "Unified, modern, privacy-first HRMS & Payroll SaaS platform for high-growth enterprises and SMBs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
